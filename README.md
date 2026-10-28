@@ -296,7 +296,7 @@ OK
 
 ## Proposed next milestone (not completed)
 
-Request: USD 1,500 for a focused four-week public-goods release, subject to the foundation's review. 20h × $25: schema/transport hardening and HTTP failure coverage; 24h × $25: reproducible multi-provider fixtures, CI and regression captures; 16h × $25: documentation, packaging and a developer walkthrough. Acceptance: reviewer can run tests with one command, reproduce the included failure cases, and inspect independently acquired raw responses with timestamps. No paid RPC or mainnet write is required by this proposed scope.
+Request: USD 2,500, subject to Foundation review and applicant confirmation of maintenance commitments. Beta: USD 1,200 (48h at USD 25) for transport/schema hardening and packaging/examples, targeted four weeks after agreement. Maintenance: USD 900 over six monthly milestones of USD 150 (6h/month at USD 25), starting with beta release. Adoption: USD 400 tied to four unrelated project integrations at USD 100 each, evidenced by public usage and external maintainer confirmation. Self-generated usage and duplicate projects do not count. These are proposed targets, not existing adoption or guaranteed results. The Foundation developer-tooling template requires at least six months of maintenance and quantifiable adoption milestones; the application has not been submitted. No paid RPC or mainnet write is required by this scope.
 
 ## Maintainer
 
